@@ -73,13 +73,7 @@ public class NBody {
             drawOnce(radius, bodies);
             StdDraw.pause(10);
         }
-        StdOut.printf("%d\n", bodies.length);
-        StdOut.printf("%.2e\n", radius);
-        for (Body body : bodies) {
-            StdOut.printf("%11.4e %11.4e %11.4e %11.4e %11.4e %12s\n",
-                    body.xxPos, body.yyPos, body.xxVel,
-                    body.yyVel, body.mass, body.imgFileName);
-        }
+        
     }
 
 }
