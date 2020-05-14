@@ -94,5 +94,11 @@
 
 了解的大概的程序编写过程，学习了IDEA的基本操作和一些快捷键，学习了一些Java编程思想和一些基本语法，继续努力。
 
+最后运行成功了，但是路径似乎跟现实的太阳系不大一样。。。我认为是物理模型和公式不够精确倒置的。。
+
+运行截图：
+
+![run_capture](https://xiaoyaovo.cn/wp-content/uploads/2020/05/run_capture.png)
+
 [GitHub项目地址](https://github.com/wusanshinb/Java_proj0)
 
