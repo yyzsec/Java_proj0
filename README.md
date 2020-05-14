@@ -21,7 +21,7 @@
 
 * 命令行：`javac hello.java`编译，，`java hello` 运行，，但是我在运行中遇到了问题，Google了很久，发现要先执`SET CLASSPATH=.`方能运行，具体情况如下：
 
-![java](images\java.jpg)
+![java](https://xiaoyaovo.cn/wp-content/uploads/2020/05/java.jpg)
 
 * Java很多语法结构跟C语言很像，不过还是有区别，比如：在Java数组类中有length方法可直接计算数组长度；存在（Enhanced For Loop）（~~不知道怎么翻译Orz~~）可简化for循环语句的书写；
 
